@@ -7,3 +7,6 @@ The code was written for Windows devices.
 For the code to also work on MacOS or Linux devices, the path in which the file is saved must be changed (lines 168-170 and 195-196).
 
 The code may not work properly when run in the console.
+
+The code was translated from German to English.
+The code contains typos that do not affect functionality.
